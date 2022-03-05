@@ -18,8 +18,3 @@ build-on-linux-job:
   artifacts:
     paths:
       - /builds/ambition-echo/uestctools/UestcTools
-test:
-  tags: arch
-  stage: build
-  script:
-    - mkdir qt 
