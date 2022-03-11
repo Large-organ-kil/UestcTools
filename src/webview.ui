@@ -26,6 +26,13 @@
         </widget>
        </item>
        <item>
+        <widget class="QPushButton" name="reloadBtn">
+         <property name="text">
+          <string>(·)</string>
+         </property>
+        </widget>
+       </item>
+       <item>
         <widget class="QPushButton" name="tableBtn">
          <property name="text">
           <string>获取课表</string>
