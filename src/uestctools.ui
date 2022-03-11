@@ -149,7 +149,7 @@
          <item>
           <layout class="QHBoxLayout" name="horizontalLayout_2">
            <item>
-            <widget class="QComboBox" name="comboBox">
+            <widget class="QComboBox" name="dateBox">
              <property name="minimumSize">
               <size>
                <width>200</width>
@@ -159,7 +159,7 @@
             </widget>
            </item>
            <item>
-            <widget class="QPushButton" name="pushButton_4">
+            <widget class="QPushButton" name="checkoutBtn">
              <property name="text">
               <string>切换学期</string>
              </property>
